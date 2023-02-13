@@ -1,0 +1,160 @@
+64258	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+20876	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+16071	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+12252	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago annua
+9429	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+4703	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+4420	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Pimpinella	Pimpinella siifolia
+3481	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	NA
+3400	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+3018	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+2060	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+1624	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+1132	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+961	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+751	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+461	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+423	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+364	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+311	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+282	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+274	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+270	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+264	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+233	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	
+216	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+216	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+206	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+194	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago annua
+191	Viridiplantae	Streptophyta	NA	Lamiales	Oleaceae	Jasminum	NA
+180	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+172	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+163	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+146	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+141	Viridiplantae	Streptophyta	NA	Lamiales	Oleaceae	Jasminum	NA
+137	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+137	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+125	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+123	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+122	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+104	Viridiplantae	Streptophyta	Liliopsida				
+97	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+96	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+92	Viridiplantae	Streptophyta	NA	Lamiales	Oleaceae	Jasminum	NA
+88	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+87	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+86	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+78	Viridiplantae	Streptophyta	NA	Fabales	Fabaceae	Melilotus	Melilotus indicus
+76	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Artemisia	Artemisia judaica
+74	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Artemisia	Artemisia salsoloides
+65	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+64	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+63	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Brassica	Brassica nigra
+62	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+62	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+61	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+60	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+59	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+59	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+57	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+50	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+46	Viridiplantae	Streptophyta	NA	Fabales	Fabaceae	Melilotus	Melilotus indicus
+46	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+44	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+42	Viridiplantae	Streptophyta	NA				
+42	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	
+40	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+38	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	
+33	Viridiplantae	Streptophyta	NA	Caryophyllales	Chenopodiaceae	Chenopodiastrum	Chenopodiastrum murale
+32	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Brassica	Brassica nigra
+32	Viridiplantae	Streptophyta	NA	Malvales	Malvaceae	Corchorus	Corchorus olitorius
+31	Viridiplantae	Streptophyta	NA	Lamiales	Acanthaceae	Thunbergia	
+30	Viridiplantae	Streptophyta	NA	Sapindales	Rutaceae	Citrus	
+29	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+27	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+25	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Artemisia	Artemisia salsoloides
+25	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+24	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	
+24	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+23	Viridiplantae	Streptophyta	NA	Malpighiales	Calophyllaceae	Mesua	Mesua ferrea
+23	Viridiplantae	Streptophyta	NA	Ericales	Primulaceae	Anagallis	Anagallis arvensis
+20	Viridiplantae	Streptophyta	NA	Caryophyllales	Chenopodiaceae	Chenopodium	unknown Chenopodium
+19	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+19	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+19	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+19	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+19	Viridiplantae	Streptophyta	NA	Caryophyllales	Chenopodiaceae	Chenopodium	
+19	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago annua
+17	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+16	Viridiplantae	Streptophyta	NA	Sapindales	Rutaceae	Citrus	Citrus hystrix
+15	Viridiplantae	Streptophyta	NA				
+14	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Angelica	Angelica sinensis
+13	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+12	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Gymnanthemum	Gymnanthemum amygdalinum
+12	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+12	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+12	Viridiplantae	Streptophyta	NA	Sapindales	Rutaceae	Citrus	Citrus latifolia
+12	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+11	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	
+11	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cnidium	Cnidium officinale
+11	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	
+11	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+11	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+10	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+10	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+10	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+10	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+10	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+10	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+9	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+9	Viridiplantae	Streptophyta	NA	Malpighiales	Euphorbiaceae	Croton	Croton crassifolius
+9	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+9	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+8	Viridiplantae	Streptophyta	NA	Lamiales	Lamiaceae	Ocimum	Ocimum basilicum
+8	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+8	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia multiperulata
+8	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+8	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia leptophylla
+8	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+7	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+7	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+7	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	Camellia taliensis
+7	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+7	Viridiplantae	Streptophyta	NA	Solanales	Solanaceae	Solanum	
+6	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+6	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+6	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago euphratica
+6	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+6	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Erucastrum	Erucastrum abyssinicum
+6	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+6	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+6	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+6	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+5	Viridiplantae	Streptophyta	NA				
+5	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+5	Viridiplantae	Streptophyta	NA	Nymphaeales	Nymphaeaceae	Nymphaea	Nymphaea pubescens
+5	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae		
+5	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+5	Viridiplantae	Streptophyta	NA	Gentianales	Apocynaceae	Alyxia	Alyxia reinwardtii
+5	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+4	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+4	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+4	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+4	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+4	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+3	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Cichorium	Cichorium pumilum
+3	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+3	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+3	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+3	Viridiplantae	Streptophyta					
+3	Viridiplantae	Streptophyta	NA	Fabales	Fabaceae	Vigna	Vigna aconitifolia
+3	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+3	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+3	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+3	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+3	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+3	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+2	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+2	Viridiplantae	Streptophyta	NA	Ericales	Theaceae	Camellia	
+2	Viridiplantae	Streptophyta	NA	Boraginales	Ehretiaceae	Ehretia	NA
+1	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa

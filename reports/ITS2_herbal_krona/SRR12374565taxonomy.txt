@@ -1,0 +1,66 @@
+48154	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+3988	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+452	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+269	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+254	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+248	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Artemisia	Artemisia salsoloides
+216	Viridiplantae	Streptophyta	NA	Laurales	Lauraceae	Cinnamomum	Cinnamomum macrostemon
+201	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+182	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+180	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+155	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+154	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Artemisia	Artemisia judaica
+127	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Artemisia	Artemisia salsoloides
+108	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cnidium	Cnidium officinale
+105	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Brassica	Brassica nigra
+85	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	NA
+76	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+70	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+67	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+67	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cnidium	Cnidium officinale
+62	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	Atractylodes lancea
+62	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+62	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+53	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	Atractylodes lancea
+52	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+51	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+50	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+50	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
+46	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+46	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+43	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	
+43	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+37	Viridiplantae	Streptophyta	NA	Ranunculales	Menispermaceae	Tinospora	Tinospora crispa
+35	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+33	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	
+32	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+31	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+31	Viridiplantae	Streptophyta	NA	Piperales	Piperaceae	Piper	Piper retrofractum
+29	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+28	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+26	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+25	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+25	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+24	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago annua
+20	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	
+19	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+19	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+15	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+15	Viridiplantae	Streptophyta	NA	Ranunculales	Menispermaceae	Tinospora	NA
+14	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+12	Viridiplantae	Streptophyta	NA	Fabales	Fabaceae	Senna	Senna alexandrina
+11	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Atractylodes	
+9	Viridiplantae	Streptophyta	NA	Fabales	Fabaceae	Trigonella	Trigonella foenum-graecum
+8	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Pimpinella	Pimpinella siifolia
+8	Viridiplantae	Streptophyta	NA	Laurales	Lauraceae	Cinnamomum	Cinnamomum macrostemon
+7	Viridiplantae	Streptophyta	NA	Caryophyllales	Aizoaceae	Trianthema	Trianthema portulacastrum
+7	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Eclipta	Eclipta prostrata
+5	Viridiplantae	Streptophyta					
+5	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+5	Viridiplantae	Streptophyta	NA	Caryophyllales	Portulacaceae	Portulaca	Portulaca oleracea
+4	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	Convolvulaceae	Convolvulus	Convolvulus arvensis
+3	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+3	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Parthenium	Parthenium hysterophorus
+2	Viridiplantae	Streptophyta	NA	Myrtales	Myrtaceae	Syzygium	Syzygium aromaticum
+2	Viridiplantae	Streptophyta	Magnoliopsida	Laurales	Lauraceae	Litsea	NA
+2	Viridiplantae	Streptophyta	NA	Piperales	Piperaceae	Piper	Piper retrofractum

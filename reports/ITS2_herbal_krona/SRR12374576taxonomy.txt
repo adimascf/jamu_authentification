@@ -1,0 +1,64 @@
+31548	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+14830	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+10238	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+7677	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+7486	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+2995	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	NA
+2286	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+2066	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+855	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cnidium	Cnidium monnieri
+700	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+545	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+438	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+315	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+313	Viridiplantae	Streptophyta	NA	Caryophyllales	Polygonaceae	Rumex	
+192	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+184	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+127	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+125	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+122	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+120	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+119	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+113	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+104	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+73	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	NA
+67	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	Convolvulaceae	Convolvulus	Convolvulus arvensis
+65	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae		
+54	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+50	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+42	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+31	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Angelica	Angelica sinensis
+28	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+27	Viridiplantae	Streptophyta	NA	Malvales	Malvaceae	Abutilon	NA
+25	Viridiplantae	Streptophyta	NA	Caryophyllales	Amaranthaceae	Amaranthus	
+21	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago euphratica
+14	Viridiplantae	Streptophyta	NA	Brassicales	Moringaceae	Moringa	NA
+13	Viridiplantae	Streptophyta	Liliopsida	Asparagales	Asparagaceae	Dracaena	Dracaena angustifolia
+13	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+12	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	Foeniculum vulgare
+12	Viridiplantae	Streptophyta	NA	Caryophyllales	Chenopodiaceae	Chenopodium	
+12	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Lepidium	Lepidium spinosum
+11	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+10	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Pimpinella	Pimpinella siifolia
+10	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Coriandrum	Coriandrum sativum
+8	Viridiplantae	Streptophyta	NA	Brassicales	Brassicaceae	Brassica	Brassica nigra
+8	Viridiplantae	Streptophyta					
+8	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Helminthotheca	Helminthotheca echioides
+8	Viridiplantae	Streptophyta	NA	Fabales	Fabaceae	Melilotus	Melilotus indicus
+7	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+7	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Plantaginaceae	Plantago	Plantago annua
+7	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	Nigella sativa
+6	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Foeniculum	
+6	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Malvaceae	Hibiscus	Hibiscus trionum
+4	Viridiplantae	Streptophyta	NA	Caryophyllales	Chenopodiaceae	Chenopodiastrum	Chenopodiastrum murale
+4	Viridiplantae	Streptophyta	Liliopsida	Asparagales	Asphodelaceae	Asphodelus	Asphodelus tenuifolius
+4	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+4	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae	Tanacetum	unknown Tanacetum
+4	Viridiplantae	Streptophyta	NA	Ranunculales	Ranunculaceae	Nigella	
+3	Viridiplantae	Streptophyta	NA	Asterales	Asteraceae		
+3	Viridiplantae	Streptophyta	NA	Brassicales	Moringaceae	Moringa	NA
+3	Viridiplantae	Streptophyta	NA	Myrtales	Myrtaceae	Syzygium	Syzygium aromaticum
+3	Viridiplantae	Streptophyta	NA	Brassicales	Moringaceae	Moringa	NA
+2	Viridiplantae	Streptophyta	NA	Piperales	Piperaceae	Piper	
+2	Viridiplantae	Streptophyta	NA	Apiales	Apiaceae	Cuminum	NA
+2	Viridiplantae	Streptophyta	NA	Proteales	Nelumbonaceae	Nelumbo	NA
