@@ -1,11 +1,19 @@
 #!/usr/bin/bash
 
+set -e
+set -u
+set -o pipefail
+
 eval "$(conda shell.bash hook)"
 conda activate qiime2-2022.11
 
+mkdir -p data/processed/qiime2-files/
+mkdir -p data/processed/qiime2-files/ITS/
+mkdir -p data/processed/qiime2-files/ITS/DADA2_denoising_output
+
 qiime tools import \
   --type 'SampleData[PairedEndSequencesWithQuality]' \
-  --input-path data/processed/fastped-fastqs/ITS/fastqs \
+  --input-path $1/ \
   --input-format CasavaOneEightSingleLanePerSampleDirFmt \
   --output-path data/processed/qiime2-files/ITS/ITS.qza
 
@@ -19,12 +27,15 @@ qiime dada2 denoise-paired \
 --p-trim-left-r 0 \
 --p-trunc-len-f 230 \
 --p-trunc-len-r 200 \
---output-dir data/processed/qiim2-files/DADA2_denoising_output \
+--o-table data/processed/qiime2-files/ITS/DADA2_denoising_output/table.qza \
+--o-representative-sequences data/processed/qiime2-files/ITS/DADA2_denoising_output/representative-sequences.qza \
+--o-denoising-stats data/processed/qiime2-files/ITS/DADA2_denoising_output/denoising-stats.qza \
 --verbose \
 &> DADA2_denoising.log
 
-qiime metadata tabulate   --m-input-file data/processed/qiime2-files/ITS/DADA2_denoising_output/denoising_stats.qza \
-  --o-visualization data/processed/qiime2-files/ITS/DADA2_denoising_output/denoising_stats.qzv
+qiime metadata tabulate  \
+  --m-input-file data/processed/qiime2-files/ITS/DADA2_denoising_output/denoising-stats.qza \
+  --o-visualization data/processed/qiime2-files/ITS/DADA2_denoising_output/denoising-stats.qzv
 
 
 qiime feature-table summarize \

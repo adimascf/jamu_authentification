@@ -7,16 +7,21 @@ library(psadd)
 library(qiime2R)
 library(xlsx)
 
+args <- commandArgs(trailingOnly = TRUE)
 
-taxonomy <- read_qza("data/processed/qiime2-files/ITS/ITS2_taxonomy.qza")$data %>%
+taxonomy_qiime2 <- args[1]
+feature_table_qiime2 <- args[2]
+
+
+taxonomy <- read_qza(taxonomy_qiime2)$data %>%
     tibble() %>%
     rename_all(tolower) %>% 
     select(feature.id, taxon) %>%
     separate(taxon,
              into=c("subkingdom", "phylum", "class", "order", "family", "genus", "species"),
              sep=";") %>%
-    mutate(family = if_else(condition = is.na(family) | family == "NA", 
-                            true = paste0(order, " Unclassified", sep=" "), 
+    mutate(family = if_else(condition = is.na(family) | family == "NA",
+                            true = paste0(order, " Unclassified", sep=" "),
                             false = family),
            genus = if_else(condition = is.na(genus) | genus == "NA", 
                            true = paste0(family, " Unclassified", sep=" "), 
@@ -31,7 +36,7 @@ taxonomy <- read_qza("data/processed/qiime2-files/ITS/ITS2_taxonomy.qza")$data %
                           true = paste0(phylum, " Unclassified", sep=" "),
                           false = class))
 
-table <- read_qza("data/processed/qiime2-files/ITS/DADA2_denoising_output/table.qza")
+table <- read_qza(feature_table_qiime2)
 
 table <- table$data %>%
     as.data.frame()
@@ -50,7 +55,7 @@ feature_rel_abund <- table %>%
     pivot_longer(c("subkingdom", "phylum", "class", "order", "family", "genus", "species", "feature.id"),
                  names_to="level",
                  values_to="taxon")
-    
+
 
 # feature_rel_abund %>%
 #     filter(level == "order") %>%
