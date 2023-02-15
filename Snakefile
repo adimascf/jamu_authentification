@@ -1,3 +1,14 @@
+rule download_ITSdb:
+    input:
+        script = "code/download_db.sh"
+    output:
+        "data/raw_data/plantis_db/"
+    shell:
+        """
+        {input.script}
+        """
+
+
 rule fastp_preprocessing:
     input:
         script = "code/fastp_qc.sh"
