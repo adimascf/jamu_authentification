@@ -9,6 +9,3 @@ krona chart for making beautiful visualization (https://doi.org/10.1186/1471-210
 custom bash and R scripts for processing, manipulating, reporting, etc.
 
 results of the alpha-testing using sample data from this https://doi.org/10.1038/s41598-020-75305-0 can be seen and explored further on https://drive.google.com/drive/folders/18opeF6hhzkbvrFdr3tEag1l2Jpv640H-?usp=sharing. Please raise issues, questions, or enhancements if you have.
-
-Next step:
-tidying the repository for the *beta testing* step using data from BPOM's herbal medicine metabarcoding data
